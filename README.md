@@ -20,3 +20,6 @@ Haar Cascade Classifier for face detection: OpenCV
 
 
 ## Outputs
+https://github.com/Tazeensk/Emotion_Detection_Voice_Integrated/blob/main/output3.png
+https://github.com/Tazeensk/Emotion_Detection_Voice_Integrated/blob/main/output4.png
+
